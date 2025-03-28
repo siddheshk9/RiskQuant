@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Author:
-    lprtk
+    Siddhesh9
 
 Description:
     It is a Python library oriented on risk management in Finance. The library
@@ -9,8 +9,7 @@ Description:
     approaches. There are also backtesting tests implemented and functions to
     process the time series signal.
 
-License:
-    MIT License
+
 """
 
 import matplotlib.pyplot as plt
